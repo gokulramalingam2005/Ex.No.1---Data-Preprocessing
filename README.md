@@ -34,8 +34,8 @@ Splitting the data into test and train
 ```
 ## PROGRAM:
 ```
-Name : charumathi R
-Reg no : 212222240021
+Name : gokul R
+Reg no : 212222230039
 ```
 ## Importing libraries :
 ```C
